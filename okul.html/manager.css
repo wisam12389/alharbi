@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    background: linear-gradient(#111,#222)
+}
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url();
+background-size: 1px;
+background: linear-gradient(#111, #222);
+
+}
+.man {
+    color: black;
+    background-color: #fff;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.man h1{
+    padding-left: 30px;
+}
